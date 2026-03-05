@@ -13,4 +13,4 @@
     Al enviar el formulario, la página recarga e incluye nuestro script, ejecutándolo y mostrando una ventana de alerta.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/xssreflected.png)
+    ![Captura del ejercicio](../assets/ReflectedXSS.png)
