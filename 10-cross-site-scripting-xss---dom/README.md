@@ -13,4 +13,4 @@
     Al cargar la página, el JavaScript del lado del cliente escribe nuestro payload directamente en el DOM, ejecutando la alerta. El servidor nunca recibe el payload en una petición, solo el navegador lo interpreta.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/xssdom.png)
+    ![Captura del ejercicio](../assets/DOMXSS.png)
