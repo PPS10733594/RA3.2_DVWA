@@ -13,4 +13,4 @@
     El script interactúa con la aplicación y, basándose en las respuestas, logra extraer información como la longitud y, eventualmente, el nombre de la base de datos o su versión.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/sqlblind.png)
+    ![Captura del ejercicio](../assets/BlindSQLInjetcion.png)
