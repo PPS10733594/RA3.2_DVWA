@@ -14,4 +14,4 @@
     Tras acceder a la página maliciosa, al volver a la sección de CSRF, vemos el mensaje de confirmación "Password Changed.", indicando que el ataque fue exitoso.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/csrf.png)
+    ![Captura del ejercicio](../assets/CSRF.png)
