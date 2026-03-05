@@ -14,4 +14,4 @@
     Al ejecutar el comando en la consola, forzamos la finalización del "juego" y obtenemos el mensaje "Well done!", demostrando que la seguridad del lado del cliente no es suficiente.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/javascriptattacks.png)
+    ![Captura del ejercicio](../assets/JSAttack.png)
