@@ -13,4 +13,4 @@
     La aplicación web devuelve el contenido del archivo `/etc/passwd`, listando todos los usuarios del sistema operativo. Esta información es crucial para un atacante.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/fileinclusion.png)
+    ![Captura del ejercicio](../assets/FileInclusion.png)
