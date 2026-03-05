@@ -1,6 +1,6 @@
 # Práctica RA3.2 - DVWA (Damn Vulnerable Web Application)
 
-Este repositorio documenta la realización de la práctica **RA3.2** de la asignatura "Ciberseguridad en entornos de las tecnologías de la información". El objetivo es explotar y comprender las vulnerabilidades de la aplicación **Damn Vulnerable Web Application (DVWA)** en los niveles de seguridad **LOW** y **MEDIUM**, siguiendo los criterios de evaluación establecidos.
+Este repositorio documenta la realización de la práctica **RA3.2** de la asignatura "Ciberseguridad en entornos de las tecnologías de la información". El objetivo es explotar y comprender las vulnerabilidades de la aplicación **Damn Vulnerable Web Application (DVWA)** en los niveles de seguridad **MEDIUM**, siguiendo los criterios de evaluación establecidos.
 
 A través de esta práctica, se aplican técnicas de hacking ético para identificar fallos de seguridad y se proponen medidas para su mitigación en entornos de producción reales.
 
