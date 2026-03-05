@@ -13,4 +13,4 @@
 - **Resultado:**
     Hydra probó exitosamente miles de contraseñas y encontró varias válidas para el usuario "admin", siendo `password` una de ellas.
     
-    ![Resultado del ataque de fuerza bruta con Hydra](./Captura%20de%20pantalla%202026-03-04%20171951.png)
+    ![Resultado del ataque de fuerza bruta con Hydra](../assets/Bruteforce.png)
