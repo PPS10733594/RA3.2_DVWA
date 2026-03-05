@@ -13,4 +13,4 @@
     Al hacer clic en "Sign Guestbook", el mensaje se guarda. A partir de ese momento, cualquier usuario que visite la página del libro de visitas verá ejecutarse la alerta.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/xssstored.png)
+    ![Captura del ejercicio](../assets/StoredXSS.png)
