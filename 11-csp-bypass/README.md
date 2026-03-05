@@ -13,4 +13,4 @@
     La aplicación ejecuta nuestro script, demostrando que la política CSP tiene una configuración débil que puede ser eludida.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/cspbypass.png)
+    ![Captura del ejercicio](../assets/CSP.png)
