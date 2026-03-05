@@ -11,4 +11,4 @@
     Comprobamos que los IDs de sesión son secuenciales y predecibles. Un atacante podría generar un ID válido y secuestrar la sesión de otro usuario simplemente probando números cercanos.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/weaksessionids.png)
+    ![Captura del ejercicio](../assets/weak_session.png)
