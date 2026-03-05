@@ -17,5 +17,5 @@
     A pesar de las validaciones de nivel medio, logramos subir nuestra web shell modificando la petición y ejecutamo>
     
     ## Resultado
-    ![Captura del ejercicio](../assets/fileupload.png)
+    ![Captura del ejercicio](../assets/FileUpload.png)
 
