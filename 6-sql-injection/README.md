@@ -14,4 +14,4 @@
     La aplicación muestra los nombres de usuario y sus hashes de contraseña (MD5) de la tabla `users` de la base de datos.
     
     ## Resultado
-    ![Captura del ejercicio](../assets/sqlinjection.png)
+    ![Captura del ejercicio](../assets/SQLINJEction.png)
